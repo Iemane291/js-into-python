@@ -7,4 +7,4 @@ class console:
 
 class Math:
     def round_(x):
-        round(x)
+        return round(x)
